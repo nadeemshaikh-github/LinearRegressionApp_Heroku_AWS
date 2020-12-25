@@ -1,2 +1,2 @@
-Linear Regression App with Heroku Deployment
+Linear Regression App 
 # Admission Prediction
