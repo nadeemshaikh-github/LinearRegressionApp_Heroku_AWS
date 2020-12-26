@@ -1,3 +1,3 @@
 Linear Regression App 
 # Admission Prediction
-# Cloud Deployment - Heroku, AWS, GCP, Azure
+# Cloud Deployment - Heroku, AWS
